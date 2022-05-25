@@ -1,4 +1,4 @@
-/* insert into human values
+ insert into human values
  (01, 'John Doe' , 18, 'M', 'o+', 'AA');
  insert into human values(
  02, 'Will Bruce', 23, 'M', 'B', 'AS');
@@ -31,7 +31,7 @@ insert into games values
 (019, 'Clash of the Titans', 50.34, 10, 'Atlantean Store');
 
 
-*/
+
 insert into GamePurchase(humanId, gameId) values
 (01, 010),
 (02, 012),

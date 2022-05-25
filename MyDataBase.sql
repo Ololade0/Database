@@ -1,5 +1,5 @@
 
-/*
+
 create table ololade(
 column_name datatype optional constraint,
 column_name datatype optional constraint,
@@ -32,7 +32,7 @@ create table Games(
 Location varchar(25) Not Null,
 constraint Games_PK Primary Key(gameId)
 );
-*/
+
 
 create table GamePurchase(
 humanId int(10) Not Null,
